@@ -1,0 +1,29 @@
+body {
+background-color: wheat;}
+
+h1 {
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+color: rgb(0, 0, 0);
+text-shadow: 1px 2px rgb(173, 99, 57);
+}
+
+.poster {
+    width: 150px;
+    height: 220px;
+}
+
+.card-title {
+    text-align: start;
+    font-weight: bold;
+}
+
+.card-text {
+    text-align: justify;
+    font-size: small;
+}
+
+.stars { 
+align-items: center
+}
+
